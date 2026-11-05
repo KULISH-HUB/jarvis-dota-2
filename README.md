@@ -5,12 +5,12 @@
 <p align="center">
   <b>Stop counting. Start playing.</b><br>
   Jarvis tracks the timers, cooldowns and builds you keep forgetting, and tells you in time to act on them.<br>
-  Free. Windows. No account.
+  Free. For Windows.
 </p>
 
 > [!NOTE]
 > **Jarvis is in beta.** Things will break, and some features are still being tuned on real games.
-> The interface and voice are in Ukrainian for now; an English version is next.
+> The app and its voice speak English and Ukrainian: choose at first start, switch any time.
 >
 > **Tell us what you think.** What should be better? What is missing? What should go? [Open an issue](../../issues): every idea helps.
 
@@ -48,7 +48,7 @@ Jarvis works only with what Valve provides and what is already on your screen.
 **What it uses**
 
 - **Game State Integration**, the official data feed Valve built into Dota 2
-- **Public match statistics** from OpenDota and, if you choose, STRATZ
+- **Public match statistics** from OpenDota and STRATZ
 - **The picture on your own screen and the sound of your own PC**, the same way a streaming app captures them
 - **Its own windows** on top of the game
 
@@ -64,16 +64,16 @@ Jarvis works only with what Valve provides and what is already on your screen.
 
 ## Your data stays yours
 
-- **No account and no keys.** Jarvis ships with no API keys and works without any.
-- **Optional STRATZ token.** To get item advice from your own rank, you can paste your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for hero icons, to OpenDota with your public account ID, to STRATZ if you connected it, and to GitHub to check for new versions.
+- **No keys inside.** Jarvis ships with no API keys and needs no account of its own.
+- **Your own STRATZ token.** At first start Jarvis asks for your own free token, which gives item advice from your own rank. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
+- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for hero icons, to OpenDota with your public account ID, to STRATZ, and to GitHub to check for new versions.
 
 ## Getting started
 
 **[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
 
 1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
-2. In Steam, open Dota 2's **Properties** and add `-gamestateintegration` to the launch options.
+2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota with `-gamestateintegration` in the launch options.
 3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
 4. Play. Jarvis connects by itself.
 
