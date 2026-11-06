@@ -4,53 +4,62 @@
 
 <p align="center">
   <b>Stop counting. Start playing.</b><br>
-  Jarvis tracks the timers, cooldowns and builds you keep forgetting, and tells you in time to act on them.<br>
-  Free. For Windows.
+  Jarvis keeps track of the timers, cooldowns and builds you keep forgetting, and shows you your whole Dota career.<br>
+  Free. For Windows. In English and Ukrainian.
 </p>
 
 > [!NOTE]
 > **Jarvis is in beta.** Things will break, and some features are still being tuned on real games.
-> The app and its voice speak English and Ukrainian: choose at first start, switch any time.
 >
 > **Tell us what you think.** What should be better? What is missing? What should go? [Open an issue](../../issues): every idea helps.
 
 <p align="center">
-  <img src="assets/in-game.jpg" alt="Jarvis's layers over a Dota 2 match: ultimate cooldowns and buybacks under the portraits, a spoken line under the clock, timers on the left, last-seen marks on the minimap, the next item on the right" width="100%">
-  <br>
-  <sub>Jarvis's real layers from a replay of a real match, placed over a screenshot of that same match, because they are hidden from screen capture. The ultimate cooldowns and buybacks under the portraits and the spoken line are samples. Names on screen are blurred.</sub>
+  <b><a href="../../releases/latest">Download the latest version</a></b>
 </p>
 
-## What it does
+<p align="center">
+  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: ultimate cooldowns and buybacks under the portraits, timers on Dota's own buttons by the minimap, a spoken line under the clock" width="100%">
+</p>
 
-### In the match
+## In the match
+
+- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act. Or short sounds, if you prefer them.
+- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, key items.
+- **On Dota's own buttons:** the timers of Roshan, the Tormentor, Scan and Glyph.
+- **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them.
+- **What to level, what to buy, which neutral item to craft:** right on the game's own buttons and panels.
+- **Where to ward:** one key shows where pros ward for your side at this minute. Statistics, never the enemy's real wards.
+- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Any format, ultrawide too.
+
+## Your whole account
+
+Every game you have played, for the last week, month, year or all time, ranked or all.
 
 | | |
 |---|---|
-| **A voice in your ear** | Runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs of both teams, enemy buybacks, outposts. Said about 15 seconds before they matter. You keep your eyes on the fight. |
-| **Enemy ultimates, by ear** | Jarvis knows the sound of more than 90 ultimates. When one goes off near you, its cooldown starts under that hero's portrait, and you hear when it is ready again. *Beta: still being tuned, because the game often plays these sounds quietly.* |
-| **Key items, by ear** | Black King Bar, Aeon Disk, Linken's Sphere, Refresher, Lotus Orb. It tells you when an enemy's BKB runs out and warns you when someone near you goes invisible. |
-| **Who is missing** | An enemy gone from your minimap for 10 seconds gets called out and marked where you last saw him, with a timer. Killed heroes and destroyed wards are left out. |
-| **What to level, what to buy** | A frame on the skill worth leveling, right on Dota's own button. The next item, from games at your own rank or from pro games, and what answers this enemy line-up. |
-| **Which neutral item to craft** | Frames on the crafting panel: what pros take on your hero at this tier. |
+| ![Overview](assets/profile.jpg) | ![Where you die](assets/deaths.jpg) |
+| **Overview.** Your numbers, a wave of form, a calendar, the days and hours you win, a lifetime counter. | **Deaths.** Where and when you die, who kills you, whom you kill, what it costs. |
+| ![Wards](assets/wards.jpg) | ![Positions](assets/positions.jpg) |
+| **Wards.** Your own spots by side and time, next to where pros ward. | **Positions and lanes.** Carry to support, lanes, solo or party, game length, tilt, farm. |
+| ![Friends](assets/friends.jpg) | ![Career](assets/career.jpg) |
+| **Friends.** Whom you queue with and how often you win together. Click one for their statistics and your best hero pairs. | **Career.** Your medal over time, records, patches, streaks. |
 
-### Before and after
+## Before and after a match
 
 | | |
 |---|---|
-| **Draft help** | The three best picks framed on Dota's hero grid, each with a reason you can read: which enemy it beats and why. Hero statistics at your rank, never information about players. |
-| **The post-game show** | A full-screen report: your MMR change, the team's MVP and its biggest letdown, what every player did well and badly, with praise and roasts to match. |
-| **Your last 30 days** | Your best and worst heroes, when you win and when you don't, and the one habit costing you the most games. |
+| ![Draft](assets/draft.jpg) | ![Post-game show](assets/postgame.jpg) |
+| **Draft help.** The best picks with a reason you can read. Hero statistics only, never information about players. | **The post-game show.** Your team's MVP and its biggest letdown, fair scores for every position, praise and roasts. |
+| ![Home](assets/home.jpg) | ![Voice](assets/voice.jpg) |
+| **Home.** Your last game, your form, your heroes at a glance. | **Voice and cues.** Turn every cue on or off and choose the language Jarvis speaks. |
+
+<sub>Real pictures of the app. Nicknames and avatars are replaced with "User-Jarvis".</sub>
+
+**Learn from any player:** enter a Friend ID to see where their wards stand, their main heroes, builds and habits. Public data, only for an ID you type yourself.
 
 ## Built to play fair
 
-Jarvis works only with what Valve provides and what is already on your screen.
-
-**What it uses**
-
-- **Game State Integration**, the official data feed Valve built into Dota 2
-- **Public match statistics** from OpenDota and STRATZ
-- **The picture on your own screen and the sound of your own PC**, the same way a streaming app captures them
-- **Its own windows** on top of the game
+Jarvis uses Valve's official Game State Integration, public match statistics from OpenDota and STRATZ, and the picture and sound of your own game.
 
 **What it never does**
 
@@ -60,24 +69,25 @@ Jarvis works only with what Valve provides and what is already on your screen.
 - Shows you anything the game hides: fog stays fog
 - Looks up the other players before or during the draft
 
-**The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Jarvis stays away from what Valve has banned accounts for: reading data from the game client and scouting players in the draft. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off in the settings.
+**The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off in the settings.
 
 ## Your data stays yours
 
 - **No keys inside.** Jarvis ships with no API keys and needs no account of its own.
-- **Your own STRATZ token.** At first start Jarvis asks for your own free token, which gives item advice from your own rank. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for hero icons, to OpenDota with your public account ID, to STRATZ, and to GitHub to check for new versions.
+- **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
+- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
+- **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
 
 ## Getting started
 
 **[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
 
 1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
-2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota with `-gamestateintegration` in the launch options.
+2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota.
 3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
-4. Play. Jarvis connects by itself.
+4. Play. Jarvis tells you when it has connected.
 
-Tested on Windows 11. You can turn every cue and hint on or off, and resize the cards. When a new version is out, Jarvis tells you when it starts: one click updates it, never during a match.
+Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, never during a match.
 
 ## About this repository
 
