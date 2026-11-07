@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>Stop counting. Start playing.</b><br>
-  Jarvis keeps track of the timers, cooldowns and builds you keep forgetting, and shows you your whole Dota career.<br>
+  <b>Your own games already know why you lose.</b><br>
+  Jarvis finds the one thing that decides your wins, sets you goals for every match, and talks you through the game in your ear.<br>
   Free. For Windows. In English and Ukrainian.
 </p>
 
@@ -18,18 +18,52 @@
 </p>
 
 <p align="center">
-  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: ultimate cooldowns and buybacks under the portraits, timers on Dota's own buttons by the minimap, a spoken line under the clock" width="100%">
+  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, the next item and which neutral item to craft" width="100%">
 </p>
+
+## A coach who has read all your games
+
+<p align="center">
+  <img src="assets/coach.jpg" alt="The Coach: with 7 deaths or fewer you win 7 games of 8" width="100%">
+</p>
+
+Pick up to three heroes. Jarvis goes through **your own games** and finds the number that really decides them, like *"With 7 deaths or fewer you win 7 games of 8."* Then you train just that one thing.
+
+- **After every game:** what worked, what did not, and one thing to do next time.
+- **How pros play your hero at your position:** every purchase on one clock, parts included, with you right beside them.
+- **Ideal and your goal:** for each number, what the best do and your next real step towards it.
+- **Your rank, top players, pros:** side by side with you, at exactly your position.
+- **Game by game:** what you bought, and what was worth buying against those enemies.
+
+| | |
+|---|---|
+| ![How pros play](assets/coach-pros.jpg) | ![Items](assets/coach-items.jpg) |
+| **How pros play.** All their purchases, your numbers beside the rank's, the top players' and the pros'. | **Items.** One game at a time: what you bought, what was worth buying, ideal times and your goal. |
+
+## Goals for every match
+
+<p align="center">
+  <img src="assets/goals.jpg" alt="My goals: rank, level, streak, the goal of the day and of the week, pinned heroes and ten ranks" width="100%">
+</p>
+
+- **Goals that follow your pick:** last hits by a minute, your key item, deaths, kills and assists. The numbers come from thousands of real games on that hero and position.
+- **Three stars:** one for what your rank does, two for top players, three for beating them.
+- **Live on your screen,** with a soft sound when you earn a star.
+- **XP for goals, not for wins.** A good game counts even when your team throws. Levels and ten ranks, from a stone to a blazing crystal.
+- **A goal of the day and of the week,** taken from your own games, and a streak to keep.
+- **Pin your heroes** and see whether you are growing on each of them.
+- **Fair:** only ranked and normal All Pick count, never bots or Turbo.
 
 ## In the match
 
 - **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act. Or short sounds, if you prefer them.
+- **You against your rank:** beside Dota's own numbers, your K/D/A and last hits next to what your rank has on this hero at this very minute.
 - **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, key items.
 - **On Dota's own buttons:** the timers of Roshan, the Tormentor, Scan and Glyph.
 - **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them.
 - **What to level, what to buy, which neutral item to craft:** right on the game's own buttons and panels.
-- **Where to ward:** one key shows where pros ward for your side at this minute. Statistics, never the enemy's real wards.
-- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Any format, ultrawide too.
+- **Where to ward:** one key goes through your chosen player's wards, the pros', and where the enemy usually wards. Statistics, never the enemy's real wards.
+- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Any format, ultrawide too, and a second monitor.
 
 ## Your whole account
 
@@ -42,7 +76,7 @@ Every game you have played, for the last week, month, year or all time, ranked o
 | ![Wards](assets/wards.jpg) | ![Positions](assets/positions.jpg) |
 | **Wards.** Your own spots by side and time, next to where pros ward. | **Positions and lanes.** Carry to support, lanes, solo or party, game length, tilt, farm. |
 | ![Friends](assets/friends.jpg) | ![Career](assets/career.jpg) |
-| **Friends.** Whom you queue with and how often you win together. Click one for their statistics and your best hero pairs. | **Career.** Your medal over time, records, patches, streaks. |
+| **Friends.** Whom you queue with and how often you win together. | **Career.** Your medal over time, records, patches, streaks. |
 
 ## Before and after a match
 
@@ -50,12 +84,28 @@ Every game you have played, for the last week, month, year or all time, ranked o
 |---|---|
 | ![Draft](assets/draft.jpg) | ![Post-game show](assets/postgame.jpg) |
 | **Draft help.** The best picks with a reason you can read. Hero statistics only, never information about players. | **The post-game show.** Your team's MVP and its biggest letdown, fair scores for every position, praise and roasts. |
-| ![Home](assets/home.jpg) | ![Voice](assets/voice.jpg) |
-| **Home.** Your last game, your form, your heroes at a glance. | **Voice and cues.** Turn every cue on or off and choose the language Jarvis speaks. |
 
-<sub>Real pictures of the app. Nicknames and avatars are replaced with "User-Jarvis".</sub>
+<sub>Real pictures of the app on real games. Nicknames and avatars are replaced with "User-Jarvis", and the level on the goals picture is an example. Jarvis's layers hide from screen capture, so the in-game picture is put together: a frame of the game with the layers drawn for its numbers, and sample timers under the portraits.</sub>
 
 **Learn from any player:** enter a Friend ID to see where their wards stand, their main heroes, builds and habits. Public data, only for an ID you type yourself.
+
+## Getting started
+
+**[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
+
+1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
+2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota.
+3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
+4. Play. Jarvis tells you when it has connected.
+
+Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, never during a match.
+
+## Your data stays yours
+
+- **No keys inside.** Jarvis ships with no API keys and needs no account of its own.
+- **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
+- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
+- **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
 
 ## Built to play fair
 
@@ -70,24 +120,6 @@ Jarvis uses Valve's official Game State Integration, public match statistics fro
 - Looks up the other players before or during the draft
 
 **The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off in the settings.
-
-## Your data stays yours
-
-- **No keys inside.** Jarvis ships with no API keys and needs no account of its own.
-- **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
-- **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
-
-## Getting started
-
-**[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
-
-1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
-2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota.
-3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
-4. Play. Jarvis tells you when it has connected.
-
-Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, never during a match.
 
 ## About this repository
 
