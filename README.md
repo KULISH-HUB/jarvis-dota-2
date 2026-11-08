@@ -11,7 +11,7 @@
 > [!NOTE]
 > **Jarvis is in beta.** Things will break, and some features are still being tuned on real games.
 >
-> **Tell us what you think.** What should be better? What is missing? What should go? [Open an issue](../../issues): every idea helps.
+> **Tell us what you think.** What should be better? What is missing? What should go? [Open an issue](../../issues), or find us on [Discord](https://discord.gg/xDRNshPtt7) and [Telegram](https://t.me/JarvisDota2Bot): every idea helps.
 
 <p align="center">
   <b><a href="../../releases/latest">Download the latest version</a></b>
@@ -54,6 +54,12 @@ Pick up to three heroes. Jarvis goes through **your own games** and finds the nu
 - **Pin your heroes** and see whether you are growing on each of them.
 - **Fair:** only ranked and normal All Pick count, never bots or Turbo.
 
+## With friends
+
+- **Add friends** by their Jarvis ID or nickname: their rank, profile and who is in Jarvis right now.
+- **Your rank in Discord:** link Discord and get a role with your rank on our server.
+- **Your progress lives in your account,** so it survives a new PC. With Steam linked, Steam confirms your games are really yours.
+
 ## In the match
 
 - **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act. Or short sounds, if you prefer them.
@@ -94,7 +100,7 @@ Every game you have played, for the last week, month, year or all time, ranked o
 **[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
 
 1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
-2. Follow the short setup when Jarvis first opens: your language, your free STRATZ token, connecting Dota.
+2. Follow the short setup when Jarvis first opens: your language, a Jarvis account (Steam, Google or e-mail), your free STRATZ token, connecting Dota.
 3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
 4. Play. Jarvis tells you when it has connected.
 
@@ -102,9 +108,10 @@ Tested on Windows 11. When a new version is out, Jarvis offers it when it starts
 
 ## Your data stays yours
 
-- **No keys inside.** Jarvis ships with no API keys and needs no account of its own.
+- **A Jarvis account.** It keeps your nickname, progress and friends on our server, so they survive a new PC. The app lists exactly what it keeps, and one button deletes it all.
+- **No keys inside.** Jarvis ships with no API keys.
 - **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **No telemetry and no server of ours.** Recordings, reports and settings stay on your computer. Jarvis only talks to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
+- **The rest stays on your PC.** Match recordings, reports and settings never leave your computer. Besides our server, Jarvis talks only to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
 - **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
 
 ## Built to play fair
@@ -120,6 +127,14 @@ Jarvis uses Valve's official Game State Integration, public match statistics fro
 - Looks up the other players before or during the draft
 
 **The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off in the settings.
+
+## Say thanks
+
+Jarvis is free, and stays free. If it helps your games, you can thank the developer on Patreon.
+
+<p align="center">
+  <a href="https://patreon.com/JarvisDota2"><img src="assets/patreon.png" alt="Jarvis is free, and stays free. Say thanks on Patreon" width="100%"></a>
+</p>
 
 ## About this repository
 
