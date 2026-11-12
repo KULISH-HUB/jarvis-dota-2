@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, the next item and which neutral item to craft" width="100%">
+  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: your chance to win under the score, goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, the item card beside the gold and which neutral item to craft" width="100%">
 </p>
 
 ## A coach who has read all your games
@@ -94,7 +94,11 @@ Every game you have played, for the last week, month, year or all time, ranked o
 
 **A full match review:** open any of the ten players for the chance to win minute by minute, why that score, deaths and kills on the map, gold, wards and items. The review comes from whichever of STRATZ and OpenDota reads the match first; the minute-by-minute chance, maps, gold, wards and items over time come from STRATZ with your token.
 
-<sub>Real pictures of the app on real games. Nicknames and avatars are replaced with "User-Jarvis", and the level on the goals picture is an example. Jarvis's layers hide from screen capture, so the in-game picture is put together: a frame of the game with the layers drawn for its numbers, and sample timers under the portraits.</sub>
+<p align="center">
+  <img src="assets/review.jpg" alt="The match review: your team's chance to win minute by minute with kills and deaths, all ten players with a fair score, and one player's game: why that score, style marks and a line from Jarvis" width="100%">
+</p>
+
+<sub>Real pictures of the app on real games. Nicknames and avatars are replaced with "User-Jarvis", match numbers are left out, and the level on the goals picture is an example. Jarvis's layers hide from screen capture, so the in-game picture is put together: a frame of the game with the layers drawn for its numbers, and sample timers under the portraits.</sub>
 
 **Learn from any player:** enter a Friend ID to see where their wards stand, their main heroes, builds and habits. Public data, only for an ID you type yourself.
 
