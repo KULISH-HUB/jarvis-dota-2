@@ -14,7 +14,7 @@
 > **Tell us what you think.** What should be better? What is missing? What should go? [Open an issue](../../issues), or find us on [Discord](https://discord.gg/xDRNshPtt7) and [Telegram](https://t.me/JarvisDota2Bot): every idea helps.
 
 <p align="center">
-  <b><a href="../../releases/latest">Download the latest version</a></b>
+  <b><a href="https://jarvisdota2.com/download">Download the latest version</a></b> · <a href="https://jarvisdota2.com">jarvisdota2.com</a>
 </p>
 
 <p align="center">
@@ -104,21 +104,21 @@ Every game you have played, for the last week, month, year or all time, ranked o
 
 ## Getting started
 
-**[Download the latest version](../../releases/latest)** and run `Jarvis-Dota-2-Setup-*.exe`.
+**[Download the latest version](https://jarvisdota2.com/download)** from our site (or from [Releases](../../releases/latest)) and run `Jarvis-Dota-2-Setup-*.exe`.
 
 1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
 2. Follow the short setup when Jarvis first opens: your language, a Jarvis account (Steam, Google or e-mail), your free STRATZ token, connecting Dota.
 3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
 4. Play. Jarvis tells you when it has connected.
 
-Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, never during a match.
+Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, after a match or when you bring up its window, never during a match. Updates come from our own site and are checked with our signature before they install.
 
 ## Your data stays yours
 
 - **A Jarvis account.** It keeps your nickname, progress and friends on our server, so they survive a new PC. The app lists exactly what it keeps, and one button deletes it all.
 - **No keys inside.** Jarvis ships with no API keys.
 - **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **The rest stays on your PC.** Match recordings, reports and settings never leave your computer. Besides our server, Jarvis talks only to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to GitHub to check for new versions.
+- **The rest stays on your PC.** Match recordings, reports and settings never leave your computer. Besides our server, Jarvis talks only to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to our own site to check for new versions.
 - **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
 
 ## Built to play fair
