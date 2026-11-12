@@ -50,9 +50,9 @@ Pick up to three heroes. Jarvis goes through **your own games** and finds the nu
 - **Three stars:** one for what your rank does, two for top players, three for beating them.
 - **Live on your screen,** with a soft sound when you earn a star.
 - **XP for goals, not for wins.** A good game counts even when your team throws. Levels and ten ranks, from a stone to a blazing crystal.
-- **A goal of the day and of the week,** taken from your own games, and a streak to keep.
+- **A goal of the day** (be ahead of your rank at minute 10, minute 5 in Turbo) **and of the week** (taken from your own games), and a streak to keep.
 - **Pin your heroes** and see whether you are growing on each of them.
-- **Fair:** only ranked and normal All Pick count, never bots or Turbo.
+- **Fair:** ranked and normal All Pick count in full, Turbo counts at half with its own Turbo numbers, bots and lobbies never.
 
 ## With friends
 
@@ -62,14 +62,15 @@ Pick up to three heroes. Jarvis goes through **your own games** and finds the nu
 
 ## In the match
 
-- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act. Or short sounds, if you prefer them.
+- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Or short sounds, if you prefer them.
+- **Your chance to win:** a thin bar under Dota's score, from the draft, the kills and the clock. Not shown in Turbo, with bots or in a lobby.
 - **You against your rank:** beside Dota's own numbers, your K/D/A and last hits next to what your rank has on this hero at this very minute.
-- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, key items.
+- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, and up to six items you saw on an enemy, with any cooldown Dota showed you.
 - **On Dota's own buttons:** the timers of Roshan, the Tormentor, Scan and Glyph.
 - **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them.
-- **What to level, what to buy, which neutral item to craft:** right on the game's own buttons and panels.
+- **What to level, what to buy, which neutral item to craft:** on or beside the game's own buttons and panels. The item card also suggests an answer to a particular enemy and says why.
 - **Where to ward:** one key goes through your chosen player's wards, the pros', and where the enemy usually wards. Statistics, never the enemy's real wards.
-- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Any format, ultrawide too, and a second monitor.
+- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Other formats, ultrawide too, are worked out from Dota's own layout rules, and a layer can go to a second monitor.
 
 ## Your whole account
 
@@ -90,6 +91,8 @@ Every game you have played, for the last week, month, year or all time, ranked o
 |---|---|
 | ![Draft](assets/draft.jpg) | ![Post-game show](assets/postgame.jpg) |
 | **Draft help.** The best picks with a reason you can read. Hero statistics only, never information about players. | **The post-game show.** Your team's MVP and its biggest letdown, fair scores for every position, praise and roasts. |
+
+**A full match review:** open any of the ten players for the chance to win minute by minute, why that score, deaths and kills on the map, gold, wards and items. The review comes from whichever of STRATZ and OpenDota reads the match first; the minute-by-minute chance, maps, gold, wards and items over time come from STRATZ with your token.
 
 <sub>Real pictures of the app on real games. Nicknames and avatars are replaced with "User-Jarvis", and the level on the goals picture is an example. Jarvis's layers hide from screen capture, so the in-game picture is put together: a frame of the game with the layers drawn for its numbers, and sample timers under the portraits.</sub>
 
@@ -126,7 +129,7 @@ Jarvis uses Valve's official Game State Integration, public match statistics fro
 - Shows you anything the game hides: fog stays fog
 - Looks up the other players before or during the draft
 
-**The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off in the settings.
+**The honest part.** Valve does not certify third-party apps, so nobody can truthfully promise you zero risk. Valve has not said anything specific about reading hero portraits off the screen in the draft, so you can turn that off on the Draft page.
 
 ## Say thanks
 
