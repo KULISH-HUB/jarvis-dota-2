@@ -50,27 +50,28 @@ Pick up to three heroes. Jarvis goes through **your own games** and finds the nu
 - **Three stars:** one for what your rank does, two for top players, three for beating them.
 - **Live on your screen,** with a soft sound when you earn a star.
 - **XP for goals, not for wins.** A good game counts even when your team throws. Levels and ten ranks, from a stone to a blazing crystal.
-- **A goal of the day** (be ahead of your rank at minute 10, minute 5 in Turbo) **and of the week** (taken from your own games), and a streak to keep.
+- **A goal of the day** (be ahead of your rank at minute 10, minute 5 in Turbo) **and of the week in steps:** pick core or support, and 5, 10 and 15 games within a deaths limit taken from your own wins give experience. And a streak to keep.
 - **Pin your heroes** and see whether you are growing on each of them.
 - **Fair:** ranked and normal All Pick count in full, Turbo counts at half with its own Turbo numbers, bots and lobbies never.
 
 ## With friends
 
+- **Players top:** who earned the most experience this week, this month and of all time, from games Steam confirmed only, with medals for the first three. Rather not be in it? One switch.
 - **Add friends** by their Jarvis ID or nickname: their rank, profile and who is in Jarvis right now.
 - **Your rank in Discord:** link Discord and get a role with your rank on our server.
 - **Your progress lives in your account,** so it survives a new PC. With Steam linked, Steam confirms your games are really yours.
 
 ## In the match
 
-- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Or short sounds, if you prefer them.
+- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue.
 - **Your chance to win:** a thin bar under Dota's score, from the draft, the kills and the clock. Not shown in Turbo, with bots or in a lobby.
-- **You against your rank:** beside Dota's own numbers, your K/D/A and last hits next to what your rank has on this hero at this very minute.
-- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, and up to six items you saw on an enemy, with any cooldown Dota showed you.
+- **You against your rank:** beside Dota's own numbers, your K/D/A, last hits and net worth next to what your rank and the rank above have on this hero at this very minute.
+- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, enemy couriers until they are back, and up to six items you saw on an enemy, within about a second of clicking them, with any cooldown Dota showed you.
 - **On Dota's own buttons:** the timers of Roshan, the Tormentor, Scan and Glyph.
-- **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them.
-- **What to level, what to buy, which neutral item to craft:** on or beside the game's own buttons and panels. The item card also suggests an answer to a particular enemy and says why.
+- **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them; untick the enemies you do not need to hear about.
+- **What to level, what to buy, which neutral item to craft:** on or beside the game's own buttons and panels. The item card also suggests an answer to a particular enemy and says why, and what to sell when your six slots are full.
 - **Where to ward:** one key goes through your chosen player's wards, the pros', and where the enemy usually wards. Statistics, never the enemy's real wards.
-- **Your screen, your arrangement:** drag any layer and pull its edge to resize it. Other formats, ultrawide too, are worked out from Dota's own layout rules, and a layer can go to a second monitor.
+- **Your screen, your arrangement:** drag any layer and pull its edge to resize it, and give each layer its own background. Other formats, ultrawide too, are worked out from Dota's own layout rules, and a layer can go to a second monitor.
 
 ## Your whole account
 
@@ -90,7 +91,7 @@ Every game you have played, for the last week, month, year or all time, ranked o
 | | |
 |---|---|
 | ![Draft](assets/draft.jpg) | ![Post-game show](assets/postgame.jpg) |
-| **Draft help.** The best picks with a reason you can read. Hero statistics only, never information about players. | **The post-game show.** Your team's MVP and its biggest letdown, fair scores for every position, praise and roasts. |
+| **Draft help.** The best picks with a reason you can read, your own Dota hero grid lit among them. Hero statistics only, never information about players. | **The post-game show.** Your team's MVP and its biggest letdown, fair scores for every position, praise and roasts. |
 
 **A full match review:** open any of the ten players for the chance to win minute by minute, why that score, deaths and kills on the map, gold, wards and items. The review comes from whichever of STRATZ and OpenDota reads the match first; the minute-by-minute chance, maps, gold, wards and items over time come from STRATZ with your token.
 
