@@ -21,24 +21,33 @@
   <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: your chance to win under the score, goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, the item card beside the gold and which neutral item to craft" width="100%">
 </p>
 
-## A coach who has read all your games
+## A coach who reviews every game
 
 <p align="center">
-  <img src="assets/coach.jpg" alt="The Coach: with 7 deaths or fewer you win 7 games of 8" width="100%">
+  <img src="assets/coach.jpg" alt="The Coach: a score from 0 to 100 for the game, your team's chance to win minute by minute, and grades for the lane, the middle and the late game" width="100%">
 </p>
 
-Pick up to three heroes. Jarvis goes through **your own games** and finds the number that really decides them, like *"With 7 deaths or fewer you win 7 games of 8."* Then you train just that one thing.
+After every game Jarvis gives it a **score from 0 to 100** and shows what it is made of: your team's chance to win minute by minute, a grade for the lane, the middle and the late game, and the **three mistakes that cost the most**, each with what to do instead.
 
-- **After every game:** what worked, what did not, and one thing to do next time.
-- **How pros play your hero at your position:** every purchase on one clock, parts included, with you right beside them.
-- **Ideal and your goal:** for each number, what the best do and your next real step towards it.
-- **Your rank, top players, pros:** side by side with you, at exactly your position.
-- **Game by game:** what you bought, and what was worth buying against those enemies.
+- **One habit a week:** the Coach looks through your last 20 games for the habits that cost you wins most often. One becomes your focus: play 3 games out of 5 without it.
+- **With you in the game:** before the horn Jarvis reminds you of your focus, warns you when you are close to the habit, and tells you after the game whether you made it. Experience for every game without it.
+- **After a losing run:** three losses in a row in an evening, and Jarvis shows how you play after such a run with a break and without one. Only your own games, no preaching.
 
 | | |
 |---|---|
-| ![How pros play](assets/coach-pros.jpg) | ![Items](assets/coach-items.jpg) |
-| **How pros play.** All their purchases, your numbers beside the rank's, the top players' and the pros'. | **Items.** One game at a time: what you bought, what was worth buying, ideal times and your goal. |
+| ![The week](assets/coach-week.jpg) | ![The costliest mistakes](assets/coach-mistakes.jpg) |
+| **One habit a week.** The focus, the goals of the week and every habit with what it costs you and whether it is getting rarer. | **The costliest mistakes.** What happened, what to do instead, and the moment on the map if Jarvis recorded the game. |
+
+## What to skill and buy on every hero
+
+<p align="center">
+  <img src="assets/heroes.jpg" alt="Heroes: a hero's build from the pros' games of this patch, the order of skills, talents, starting items, items for each part of the game and neutral items" width="100%">
+</p>
+
+A build for **every hero in every position**, from the pros' games of this patch: what to max first, talents, what to start with, items for the lane, the middle and the late game, neutral items.
+
+- **Pros or your rank:** switch to My rank to see what players of your rank build, and when. It uses your own STRATZ token.
+- **Mid-game:** in a match the page turns to your hero and shows what you already have and what to buy next. Ctrl+Shift+B opens it during a draft or a match.
 
 ## Goals for every match
 
