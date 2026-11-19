@@ -41,10 +41,10 @@ After every game Jarvis gives it a **score from 0 to 100** and shows what it is 
 ## What to skill and buy on every hero
 
 <p align="center">
-  <img src="assets/heroes.jpg" alt="Heroes: a hero's build from the pros' games of this patch, the order of skills, talents, starting items, items for each part of the game and neutral items" width="100%">
+  <img src="assets/heroes.jpg" alt="Heroes: a hero's build from the pros' games, the order of skills, talents on the sides Dota shows them, starting items, items for each part of the game and neutral items" width="100%">
 </p>
 
-A build for **every hero in every position**, from the pros' games of this patch: what to max first, talents, what to start with, items for the lane, the middle and the late game, neutral items.
+A build for **every hero in every position**, from the pros' games: what to max first, talents, what to start with, items for the lane, the middle and the late game, neutral items. Prices, recipes, talents and neutral tiers already follow patch 7.42; the builds catch up once there are enough 7.42 games.
 
 - **Pros or your rank:** switch to My rank to see what players of your rank build, and when. It uses your own STRATZ token.
 - **Mid-game:** in a match the page turns to your hero and shows what you already have and what to buy next. Ctrl+Shift+B opens it during a draft or a match.
@@ -57,7 +57,7 @@ A build for **every hero in every position**, from the pros' games of this patch
 
 - **Goals that follow your pick:** last hits by a minute, your key item, deaths, kills and assists. The numbers come from thousands of real games on that hero and position.
 - **Three stars:** one for what your rank does, two for top players, three for beating them.
-- **Live on your screen,** with a soft sound when you earn a star.
+- **Live on your screen,** with a soft sound when you earn a star. A goal that can no longer be won leaves the list.
 - **XP for goals, not for wins.** A good game counts even when your team throws. Levels and ten ranks, from a stone to a blazing crystal.
 - **A goal of the day** (be ahead of your rank at minute 10, minute 5 in Turbo) **and of the week in steps:** pick core or support, and 5, 10 and 15 games within a deaths limit taken from your own wins give experience. And a streak to keep.
 - **Pin your heroes** and see whether you are growing on each of them.
@@ -72,10 +72,11 @@ A build for **every hero in every position**, from the pros' games of this patch
 
 ## In the match
 
-- **A voice in your ear:** runes, Roshan, Tormentor, stacks, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue.
+- **A voice in your ear:** runes, Roshan and the Tormentor with what they dropped, stacks on the second of the camp you stand by, pulls, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue.
+- **Dota's own tips, spoken:** too much gold, an unspent skill point, leaving base without buying, standing in a camp, being on the enemy's side with no enemy in sight, mega creeps, and your Dust when someone goes invisible.
 - **Your chance to win:** a thin bar under Dota's score, from the draft, the kills and the clock. Not shown in Turbo, with bots or in a lobby.
 - **You against your rank:** beside Dota's own numbers, your K/D/A, last hits and net worth next to what your rank and the rank above have on this hero at this very minute.
-- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis, enemy couriers until they are back, and up to six items you saw on an enemy, within about a second of clicking them, with any cooldown Dota showed you.
+- **Under the portraits:** enemy ultimate cooldowns, buybacks, the Aegis (gone when Jarvis hears an enemy come back with it near you), enemy couriers until they are back, and up to six items you saw on an enemy, within about a second of clicking them, with any cooldown Dota showed you.
 - **On Dota's own buttons:** the timers of Roshan, the Tormentor, Scan and Glyph.
 - **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them; untick the enemies you do not need to hear about.
 - **What to level, what to buy, which neutral item to craft:** on or beside the game's own buttons and panels. The item card also suggests an answer to a particular enemy and says why, and what to sell when your six slots are full.
@@ -118,7 +119,7 @@ Every game you have played, for the last week, month, year or all time, ranked o
 
 1. The app is not code-signed yet, so Windows may warn you: choose **More info**, then **Run anyway**.
 2. Follow the short setup when Jarvis first opens: your language, a Jarvis account (Steam, Google or e-mail), your free STRATZ token, connecting Dota.
-3. Set Dota's display mode to **Borderless window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice.
+3. Set Dota's display mode to **Borderless Window**, so Jarvis can draw over the game. In exclusive full screen you still get the voice; in Desktop-friendly Fullscreen the layers may turn black, and Jarvis tells you so.
 4. Play. Jarvis tells you when it has connected.
 
 Tested on Windows 11. When a new version is out, Jarvis offers it when it starts, after a match or when you bring up its window, never during a match. Updates come from our own site and are checked with our signature before they install.
