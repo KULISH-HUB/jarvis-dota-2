@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: your chance to win under the score, goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, the item card beside the gold and which neutral item to craft" width="100%">
+  <img src="assets/in-game.jpg" alt="Jarvis in a Dota 2 match: your chance to win under the score, goals for this game on the left, your numbers against your rank beside Dota's own, enemy ultimates and buybacks under the portraits, timers, what Jarvis just said, and the item card beside the gold" width="100%">
 </p>
 
 ## A coach who reviews every game
