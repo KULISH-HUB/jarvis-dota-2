@@ -32,6 +32,7 @@ After every game Jarvis gives it a **score from 0 to 100** and shows what it is 
 - **One habit a week:** the Coach looks through your last 20 games for the habits that cost you wins most often. One becomes your focus: play 3 games out of 5 without it.
 - **With you in the game:** before the horn Jarvis reminds you of your focus, warns you when you are close to the habit, and tells you after the game whether you made it. Experience for every game without it.
 - **After a losing run:** three losses in a row in an evening, and Jarvis shows how you play after such a run with a break and without one. Only your own games, no preaching.
+- **Your farm:** for carries, mids and offlaners, your gold from creeps a minute against Divine+ players on the same hero, by stage of the game, with a map of where you farmed beside where they farm and one tip for the next game. It uses your own STRATZ token.
 
 | | |
 |---|---|
@@ -48,6 +49,14 @@ A build for **every hero in every position**, from the pros' games: what to max 
 
 - **Pros or your rank:** switch to My rank to see what players of your rank build, and when. It uses your own STRATZ token.
 - **Mid-game:** in a match the page turns to your hero and shows what you already have and what to buy next. Ctrl+Shift+B opens it during a draft or a match.
+
+## What is strong right now
+
+<p align="center">
+  <img src="assets/meta.jpg" alt="The Meta tab: the six strongest heroes at each position in one rank, who rose and fell since the patch, and what the pros pick and ban" width="100%">
+</p>
+
+The **Meta** tab shows who wins most in ranked games right now: the six strongest heroes at each position, in your rank or any other, with your own position lit. Below: who rose and fell the most since the patch, and whom the pros pick and ban most. "all" opens each list in full. With your own STRATZ token the numbers are fresh every day; without one you see the table that came with your version.
 
 ## Goals for every match
 
@@ -72,7 +81,8 @@ A build for **every hero in every position**, from the pros' games: what to max 
 
 ## In the match
 
-- **A voice in your ear:** runes, Roshan and the Tormentor with what they dropped, stacks on the second of the camp you stand by, pulls, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue.
+- **A voice in your ear:** runes, Roshan and the Tormentor with what they dropped, stacks on the second of the camp you stand by, pulls, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue, and for each position if you like.
+- **A farm route:** Ctrl+Shift+F draws a thread on your minimap through the three best camps and waves nearby, with the walking time to each. It learns how fast you clear, shows when a cleared camp comes back, and hides in a fight.
 - **Dota's own tips, spoken:** too much gold, an unspent skill point, leaving base without buying, standing in a camp, being on the enemy's side with no enemy in sight, mega creeps, and your Dust when someone goes invisible.
 - **Your chance to win:** a thin bar under Dota's score, from the draft, the kills and the clock. Not shown in Turbo, with bots or in a lobby.
 - **You against your rank:** beside Dota's own numbers, your K/D/A, last hits and net worth next to what your rank and the rank above have on this hero at this very minute.
@@ -81,7 +91,7 @@ A build for **every hero in every position**, from the pros' games: what to max 
 - **Who is missing:** an enemy gone from your minimap is called out and marked where you last saw them; untick the enemies you do not need to hear about.
 - **What to level, what to buy, which neutral item to craft:** on or beside the game's own buttons and panels. The item card also suggests an answer to a particular enemy and says why, and what to sell when your six slots are full.
 - **Where to ward:** one key goes through your chosen player's wards, the pros', and where the enemy usually wards. Statistics, never the enemy's real wards.
-- **Your screen, your arrangement:** drag any layer and pull its edge to resize it, and give each layer its own background. Other formats, ultrawide too, are worked out from Dota's own layout rules, and a layer can go to a second monitor.
+- **Your screen, your arrangement:** drag any layer and pull its edge to resize it, and give each layer its own background. Other formats, ultrawide too, are worked out from Dota's own layout rules, and a layer can go to a second monitor. Every Jarvis hotkey can be set to a key of your own.
 
 ## Your whole account
 
