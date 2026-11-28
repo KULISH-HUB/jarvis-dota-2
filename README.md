@@ -79,6 +79,17 @@ The **Meta** tab shows who wins most in ranked games right now: the six stronges
 - **Your rank in Discord:** link Discord and get a role with your rank on our server.
 - **Your progress lives in your account,** so it survives a new PC. With Steam linked, Steam confirms your games are really yours.
 
+## Trade items with other players
+
+<p align="center">
+  <img src="assets/bazaar.jpg" alt="The Bazaar: listings of other players, what each wants back, and an offer button on every card" width="100%">
+</p>
+
+- **The Bazaar:** list up to ten Dota 2 items as one set and write what you want back: exact items, anything for your hero or a sum. The scales show whether the trade is even, by Steam Community Market prices (a guide only).
+- **Swapped in Steam, confirmed by you:** you agree in Jarvis, then trade in the ordinary Steam trade window with exactly that player. No money in Jarvis, no bots, and Jarvis never asks for your Steam login, Steam Guard code or API key.
+- **Reputation and reports:** every trade both players confirmed adds to their reputation; something unfair goes to the Jarvis team.
+- **A chat with other players:** talk live, find a party or agree on a trade. It waits during a draft and a match.
+
 ## In the match
 
 - **A voice in your ear:** runes, Roshan and the Tormentor with what they dropped, stacks on the second of the camp you stand by, pulls, lotuses, wisdom shrines, glyphs, enemy buybacks, outposts, said in time to act, with Turbo's own timers in Turbo. Voice, a short sound or nothing: you choose for each cue, and for each position if you like.
@@ -136,10 +147,10 @@ Tested on Windows 11. When a new version is out, Jarvis offers it when it starts
 
 ## Your data stays yours
 
-- **A Jarvis account.** It keeps your nickname, progress and friends on our server, so they survive a new PC. The app lists exactly what it keeps, and one button deletes it all.
+- **A Jarvis account.** It keeps your nickname, progress, friends, Bazaar listings and chat messages (a day) on our server, so they survive a new PC. The app lists exactly what it keeps, and one button deletes it all.
 - **No keys inside.** Jarvis ships with no API keys.
 - **Your own STRATZ token.** At first start Jarvis asks for your own free token. Windows encrypts it on your PC, and it is only ever sent to STRATZ.
-- **The rest stays on your PC.** Match recordings, reports and settings never leave your computer. Besides our server, Jarvis talks only to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, and to our own site to check for new versions.
+- **The rest stays on your PC.** Match recordings, reports and settings never leave your computer. Besides our server, Jarvis talks only to Valve's image servers for pictures, to OpenDota and STRATZ for public match data, to Steam for your public inventory and market prices when you use the Bazaar, and to our own site to check for new versions.
 - **Help with testing, if you want to.** One button in the settings packs logs and recent match recordings into an archive on your desktop. You decide whether to send it.
 
 ## Built to play fair
